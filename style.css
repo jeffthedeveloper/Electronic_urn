@@ -22,7 +22,7 @@ body {
 
 .tela {
     width: 500px;
-    height: 320px;
+    height: 350px;
     background: linear-gradient(to right, #e8e8e8, #c1c1c1);
     border: 2px solid #555;
     display: flex;
@@ -163,7 +163,6 @@ body {
 }
 
 .d-2 {
-    height: 50px;
     font-size: 14px;
     border-top: 2px solid #000;
     padding-left: 10px;
